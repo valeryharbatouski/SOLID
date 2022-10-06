@@ -612,7 +612,7 @@ public class DIP
         }
 
 
-        public class Round
+        public struct Round
         {
             public AbstractPlayer Attacker { get; private set; }
 
