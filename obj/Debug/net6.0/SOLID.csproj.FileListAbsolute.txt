@@ -1,0 +1,30 @@
+/Users/valery/Documents/GitHub/SOLID-Lesson/SOLID/bin/Debug/net6.0/SOLID
+/Users/valery/Documents/GitHub/SOLID-Lesson/SOLID/bin/Debug/net6.0/SOLID.deps.json
+/Users/valery/Documents/GitHub/SOLID-Lesson/SOLID/bin/Debug/net6.0/SOLID.runtimeconfig.json
+/Users/valery/Documents/GitHub/SOLID-Lesson/SOLID/bin/Debug/net6.0/SOLID.dll
+/Users/valery/Documents/GitHub/SOLID-Lesson/SOLID/bin/Debug/net6.0/SOLID.pdb
+/Users/valery/Documents/GitHub/SOLID-Lesson/SOLID/obj/Debug/net6.0/SOLID.csproj.AssemblyReference.cache
+/Users/valery/Documents/GitHub/SOLID-Lesson/SOLID/obj/Debug/net6.0/SOLID.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valery/Documents/GitHub/SOLID-Lesson/SOLID/obj/Debug/net6.0/SOLID.AssemblyInfoInputs.cache
+/Users/valery/Documents/GitHub/SOLID-Lesson/SOLID/obj/Debug/net6.0/SOLID.AssemblyInfo.cs
+/Users/valery/Documents/GitHub/SOLID-Lesson/SOLID/obj/Debug/net6.0/SOLID.csproj.CoreCompileInputs.cache
+/Users/valery/Documents/GitHub/SOLID-Lesson/SOLID/obj/Debug/net6.0/SOLID.dll
+/Users/valery/Documents/GitHub/SOLID-Lesson/SOLID/obj/Debug/net6.0/refint/SOLID.dll
+/Users/valery/Documents/GitHub/SOLID-Lesson/SOLID/obj/Debug/net6.0/SOLID.pdb
+/Users/valery/Documents/GitHub/SOLID-Lesson/SOLID/obj/Debug/net6.0/SOLID.genruntimeconfig.cache
+/Users/valery/Documents/GitHub/SOLID-Lesson/SOLID/obj/Debug/net6.0/ref/SOLID.dll
+/Users/valery/Documents/GitHub/SOLID-Lesson copy/SOLID/bin/Debug/net6.0/SOLID
+/Users/valery/Documents/GitHub/SOLID-Lesson copy/SOLID/bin/Debug/net6.0/SOLID.deps.json
+/Users/valery/Documents/GitHub/SOLID-Lesson copy/SOLID/bin/Debug/net6.0/SOLID.runtimeconfig.json
+/Users/valery/Documents/GitHub/SOLID-Lesson copy/SOLID/bin/Debug/net6.0/SOLID.dll
+/Users/valery/Documents/GitHub/SOLID-Lesson copy/SOLID/bin/Debug/net6.0/SOLID.pdb
+/Users/valery/Documents/GitHub/SOLID-Lesson copy/SOLID/obj/Debug/net6.0/SOLID.csproj.AssemblyReference.cache
+/Users/valery/Documents/GitHub/SOLID-Lesson copy/SOLID/obj/Debug/net6.0/SOLID.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valery/Documents/GitHub/SOLID-Lesson copy/SOLID/obj/Debug/net6.0/SOLID.AssemblyInfoInputs.cache
+/Users/valery/Documents/GitHub/SOLID-Lesson copy/SOLID/obj/Debug/net6.0/SOLID.AssemblyInfo.cs
+/Users/valery/Documents/GitHub/SOLID-Lesson copy/SOLID/obj/Debug/net6.0/SOLID.csproj.CoreCompileInputs.cache
+/Users/valery/Documents/GitHub/SOLID-Lesson copy/SOLID/obj/Debug/net6.0/SOLID.dll
+/Users/valery/Documents/GitHub/SOLID-Lesson copy/SOLID/obj/Debug/net6.0/refint/SOLID.dll
+/Users/valery/Documents/GitHub/SOLID-Lesson copy/SOLID/obj/Debug/net6.0/SOLID.pdb
+/Users/valery/Documents/GitHub/SOLID-Lesson copy/SOLID/obj/Debug/net6.0/SOLID.genruntimeconfig.cache
+/Users/valery/Documents/GitHub/SOLID-Lesson copy/SOLID/obj/Debug/net6.0/ref/SOLID.dll
